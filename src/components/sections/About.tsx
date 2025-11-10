@@ -20,12 +20,12 @@ export function About() {
             About Me
           </h2>
           <p className="text-base sm:text-lg md:text-xl text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
-            I'm a passionate blockchain developer with 5+ years of experience building decentralized applications and smart contracts.
+            I&apos;m a passionate blockchain developer with 5+ years of experience building decentralized applications and smart contracts.
             I specialize in Solidity, Web3 technologies, DeFi protocols, and NFT marketplaces, with deep expertise in Ethereum and Layer-2 solutions.
           </p>
           <p className="text-base sm:text-lg md:text-xl text-gray-700 dark:text-gray-300 leading-relaxed mb-8">
-            My mission is to push the boundaries of what's possible with blockchain technology, creating secure and innovative
-            decentralized solutions. I'm deeply involved in the Web3 ecosystem, contributing to open-source projects and staying
+            My mission is to push the boundaries of what&apos;s possible with blockchain technology, creating secure and innovative
+            decentralized solutions. I&apos;m deeply involved in the Web3 ecosystem, contributing to open-source projects and staying
             at the forefront of blockchain innovation.
           </p>
           
